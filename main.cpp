@@ -3,9 +3,9 @@
 using namespace std;
 int main(){
     print_hello();
-    // cout<< endl;
-    printf('\n');
-    // cout<<"The factorial of 5 is "<< factorial(5)<< endl;
-    printf("the factorial of 5 is %d\n", factorial(5));
+    cout<< endl;
+    // printf('\n');
+    cout<<"The factorial of 5 is "<< factorial(5)<< endl;
+    // printf("the factorial of 5 is %d\n", factorial(5));
     return 0;
 }
